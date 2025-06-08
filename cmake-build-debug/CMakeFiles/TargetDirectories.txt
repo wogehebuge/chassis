@@ -1,0 +1,3 @@
+D:/clionproject/2025newstart/chassis/cmake-build-debug/CMakeFiles/chassis.elf.dir
+D:/clionproject/2025newstart/chassis/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/clionproject/2025newstart/chassis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
